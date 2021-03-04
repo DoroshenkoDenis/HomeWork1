@@ -19,7 +19,7 @@
 * [KeyValidator.class](artifacts/KeyValidator.class)
 
 
-В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
+В качестве тестовых данных использовались данные [Руководства](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 Валидные ключи c ожидаемым результатом:
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998: OK
