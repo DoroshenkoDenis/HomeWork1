@@ -7,13 +7,13 @@
 На тестирование затрачено: 0.1 часа
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [Валидный ключ не проходит проверку](https://github.com/DoroshenkoDenis/HomeWork1/issues/1)
+* [Не валидный ключ проходит проверку](https://github.com/DoroshenkoDenis/HomeWork1/issues/2)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
+* [Домашнее задание 1 к лекции Введение в Java: JDK, JRE, JVM, IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 * [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 * [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 * [KeyValidator.class](artifacts/KeyValidator.class)
